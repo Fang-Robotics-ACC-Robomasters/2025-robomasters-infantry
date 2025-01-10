@@ -4,3 +4,6 @@
 [submodule "taproot-scripts"]
 	path = taproot-scripts
 	url = https://gitlab.com/aruw/controls/taproot-scripts.git
+[submodule "infantry/lib/RAIL-Robomaster-Abstraction-Interface-Library"]
+	path = infantry/lib/RAIL-Robomaster-Abstraction-Interface-Library
+	url = git@github.com:RavenRandomz/RAIL-Robomaster-Abstraction-Interface-Library.git
